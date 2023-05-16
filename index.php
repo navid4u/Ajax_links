@@ -9,3 +9,9 @@
   xhttp.open("GET", "page_1.php", true);
   xhttp.send();
 }; 
+
+    
+    <html>
+                            <li  onclick="loadProfile()"><a> <i> <span>My link</span> </i></li>
+    
+    </html>
